@@ -3,6 +3,7 @@ tags: ATBew/Orga
 aliases: "!AT"
 ---
 <font color="orange" style="font-family:'Courier New'">Herzlich wilkommen beim AT (Gehirn == Computer && Bewusstsein == Simulation)!</font>[^1]  
+Fragen/Kommentare bitte an: at-bewusstsein@runbox.com  
 In dieses Repository werden wir Dateien mit Mitschriften und Vor- und Nachbereitungen für die Sitzungen hochladen. Die Gelesenen Dokumente lade ich aus urheberrechtlichen Gründen nicht hier hoch.  
 Auf *[[AT Philosophy of Mind/README|dieser]]* Datei befindet sich die Übersicht über die Materialien. Wir empfehlen euch dieses Verzeichnis mit [Obsidian.md](https://obsidian.md/) zu öffnen damit alle Links wie geplant funktionieren. Die runtergeladenen Dokumente könnt ihr einfach mit in den Ordner packen. Das Plugin `dataview` ist nötig um am Ende dieser Datei eine Übersicht der Sitzungs-Notizen zu generieren.  
 
