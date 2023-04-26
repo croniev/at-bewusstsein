@@ -20,6 +20,10 @@ date: 27.04.2023
 #### INHALT
 - Fangen wir mal mit Fragen an, die schon häufig gestellt und diskutiert worden sind. Im Laufe der Veranstaltung dürften die Themen etwas spezieller werden. 
 - Ich habe mal folgende Ausschnitte zusammengestellt: 
+  >[!a]- Videos
+  > ![[Hydra is still active Arnim Zola Captain America - The Winter Soldier (2014).mp4]]
+  > ![[Robot Head Alien Inside Men in Black CLIP.mp4]]
+  > ![[What is The Matrix The Matrix [Open Matte].mp4]]
 	- Ich behaupte, sie vertreten ähnliche Vermutungen über Bewusstsein. *Stimmt ihr zu? Warum?*
 - Was meint ihr zu folgenden Fragen:
 	- *Kann eine KI Bewusstsein erlangen?*
@@ -42,6 +46,8 @@ date: 27.04.2023
 	- *Was ist die beziehung der **Wissenschaft** zur Wahrheit?*
 	- *Können wir beschreiben, wie es ist, eine Fledermaus zu sein? Oder eine Peergroup? Oder ein Staat? Oder das Wetter?*
 - Jäkel hat uns dieses schöne Bild gezeigt:
+>[!a]- Mensch als Industriepalast
+> ![[industriepalast.webp]]
 
 ---
 ## Protokoll
