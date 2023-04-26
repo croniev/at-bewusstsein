@@ -2,14 +2,14 @@
 tags: ATBew/Orga
 aliases: "!AT"
 ---
-<font color="orange" style="font-family:'Courier New'">Herzlich wilkommen beim AT (Gehirn == Computer && Bewusstsein == Simulation)!</font>[^1]
-In dieses Repository werden wir Dateien mit Mitschriften und Vor- und Nachbereitungen für die Sitzungen hochladen. Die Gelesenen Dokumente lade ich aus urheberrechtlichen Gründen nicht hier hoch.
-Auf *[[AT Philosophy of Mind/README|dieser]]* Datei befindet sich die Übersicht über die Materialien. Wir empfehlen euch dieses Verzeichnis mit [Obsidian.md](https://obsidian.md/) zu öffnen damit alle Links wie geplant funktionieren. Die runtergeladenen Dokumente könnt ihr einfach mit in den Ordner packen. Das Plugin `dataview` ist nötig um am Ende dieser Datei eine Übersicht der Sitzungs-Notizen zu generieren.
+<font color="orange" style="font-family:'Courier New'">Herzlich wilkommen beim AT (Gehirn == Computer && Bewusstsein == Simulation)!</font>[^1]  
+In dieses Repository werden wir Dateien mit Mitschriften und Vor- und Nachbereitungen für die Sitzungen hochladen. Die Gelesenen Dokumente lade ich aus urheberrechtlichen Gründen nicht hier hoch.  
+Auf *[[AT Philosophy of Mind/README|dieser]]* Datei befindet sich die Übersicht über die Materialien. Wir empfehlen euch dieses Verzeichnis mit [Obsidian.md](https://obsidian.md/) zu öffnen damit alle Links wie geplant funktionieren. Die runtergeladenen Dokumente könnt ihr einfach mit in den Ordner packen. Das Plugin `dataview` ist nötig um am Ende dieser Datei eine Übersicht der Sitzungs-Notizen zu generieren.  
 
 ##### [[Inhaltliche Ideen]]
 ## Plan
-Wir beginnen mit intuitiven, eventuell naiven oder unreflektierten Auffassungen von Bewusstsein und von Wissenschaft.
-Wir beschäftigen uns auch mit Wissenschaft an sich, da sie Handeln und Interpretationen maßgeblich beeinflusst. Ihre Rolle und Relevanz wird allerdings häufig falsch verstanden.
+Wir beginnen mit intuitiven, eventuell naiven oder unreflektierten Auffassungen von Bewusstsein und von Wissenschaft.  
+Wir beschäftigen uns auch mit Wissenschaft an sich, da sie Handeln und Interpretationen maßgeblich beeinflusst. Ihre Rolle und Relevanz wird allerdings häufig falsch verstanden.  
 
 Wir möchten unterschiedliche Themen und Perspektiven behandeln, welche sich vielleicht grob (und nicht wirklich) in zwei Lager aufteilen lassen könnten. Die Folgende Liste dient eher der groben orientierung und ist für sehr motivierte Leute. Wir werden die Lektüre sehr flexibel handhaben und immer an den Flow in den Sitzungen anpassen.
 - **Reduktionistische Naturwissenschaften**
