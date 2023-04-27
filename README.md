@@ -8,6 +8,13 @@ In dieses Repository werden wir Dateien mit Mitschriften und Vor- und Nachbereit
 Auf *[[AT Philosophy of Mind/README|dieser]]* Datei befindet sich die Übersicht über die Materialien. Wir empfehlen euch dieses Verzeichnis mit [Obsidian.md](https://obsidian.md/) zu öffnen damit alle Links wie geplant funktionieren. Die runtergeladenen Dokumente könnt ihr einfach mit in den Ordner packen. Das Plugin `dataview` ist nötig um am Ende dieser Datei eine Übersicht der Sitzungs-Notizen zu generieren.  
 
 ##### [[Inhaltliche Ideen]]
+
+##### Sessions
+```dataview
+table 
+FROM !"Templates" AND #ATBew/Ses
+SORT date asc
+```
 ## Plan
 Wir beginnen mit intuitiven, eventuell naiven oder unreflektierten Auffassungen von Bewusstsein und von Wissenschaft.  
 Wir beschäftigen uns auch mit Wissenschaft an sich, da sie Handeln und Interpretationen maßgeblich beeinflusst. Ihre Rolle und Relevanz wird allerdings häufig falsch verstanden.  
@@ -29,13 +36,6 @@ Für Fragen bezüglich was Wissenschaft ist und was sie leisten kann möchten wi
 - Michel Foucault: [[Foucault_Nietzsche die Genealogie die Historie.pdf|Nietzsche, die Genealogie, die Historie]]. In: Daniel Defert & Francois Ewald (Hrsg.): Michel Foucault. Schriften in vier Bänden. Dits et Ecrits. 2. Auflage. Band 2. 1970-1975, Nr. 2. Suhrkamp, Frankfurt am Main 2014, [ISBN 978-3-518-58353-1](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/9783518583531), S. 166–191.
 - Winsberg, E. (2012). [[Winsberg_Values_and_Uncertainties_in_the_Predictions_of_Global_Climate.pdf|Values and uncertainties in the predictions of global climate models]]. _Kennedy Institute of Ethics Journal_, _22_(2), 111–137. [https://doi.org/10.1353/ken.2012.0008](https://doi.org/10.1353/ken.2012.0008)
 - Husserl, _[[Husserl_Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie.pdf|Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie]]_ (Belgrade 1936)
-
- ## Sessions
-```dataview
-table 
-FROM !"Templates" AND #ATBew/Ses
-SORT date asc
-```
 
 >[!example]+ Notizen
 > ```dataview
