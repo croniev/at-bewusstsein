@@ -13,6 +13,7 @@ Auf *[[AT Philosophy of Mind/README|dieser]]* Datei befindet sich die Übersicht
 ```dataview
 table 
 FROM !"Templates" AND #ATBew/Ses
+Sort file.name desc
 SORT date asc
 ```
 ## Plan
@@ -41,6 +42,13 @@ Für Fragen bezüglich was Wissenschaft ist und was sie leisten kann möchten wi
 > ```dataview
 > table 
 > FROM !"Templates" AND #ATBew/Notiz
+> SORT date asc
+> ```
+
+> [!example]+ Texte
+> ```dataview
+> table 
+> FROM !"Templates" AND #ATBew/Text
 > SORT date asc
 > ```
 

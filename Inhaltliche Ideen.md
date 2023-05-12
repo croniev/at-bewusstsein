@@ -3,7 +3,6 @@ tags: ATBew/Orga
 ---
 ## Quellen
 - Daniel Siegel: neurobio + buddhism: embodied, enacted, emergent, ecological https://m.youtube.com/watch?v=mFLhwHLjesk
-- Profs/WiMi's einladen? (Jäkel, Rothkopf, Loidolt, Kersting, Peters)
 
 ## Themen
 - Eigener bezug zum Thema in NaWis oft unreflektiert.
