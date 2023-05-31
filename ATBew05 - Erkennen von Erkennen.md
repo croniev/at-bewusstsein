@@ -15,7 +15,7 @@ date: 27.04.2023
 	- Aber wo ist dann die Grenze? Es lässt sich prinzipiell ja alles hinterfragen (Descartes)
 		- Vielleicht ist es ein Instinkt, was man wann wie hinterfragt?
 - Bei den Autoren geht es darum, das denken in Absolute Wahrheit vs. Subjektive Wahrnehmung gewissermaßen zu überwinden.
-- Wichtiger Punkt der Autoren: Nicht die Begriffe haben eigenschaften und wir sind so gebaut, sie zu erkennen, sondern ihre Eigenschaften und bedeutungen kommen nur daher, wie wir gebaut sind.
+- Wichtiger Punkt der Autoren: Nicht die Begriffe haben eigenschaften und wir sind so gebaut, sie zu erkennen, sondern ihre Eigenschaften und Bedeutungen kommen nur daher, wie wir gebaut sind.
 - Wahrheitsermittlung als Betrachtung aus vielen unterschiedlichen Perspektiven
 - Dinge erhalten ihre Bedeutung dadurch, dass wir sie ihnen geben. Ihre eigenschaften sind ihnen nicht intrinsisch
 	- Würde denn jemand dem widersprechen? Es kann doch eine Repräsentation sein auch wenn wir einsehen, dass wir den Wert rein machen.
@@ -27,7 +27,7 @@ date: 27.04.2023
 
 ---
 ## Nachbereitung
-- Wir hatten eine rege diskussion über den Sinn und die Bedeutung des Buches *Der Baum der Erkenntnis* von Maturana und Varela.
+- Wir hatten eine rege Diskussion über den Sinn und die Bedeutung des Buches *Der Baum der Erkenntnis* von Maturana und Varela.
 	- Es wurde kritisiert, dass die Autoren ablehnen Konzepte als Wahrheit zu nehmen, aber dennoch aussagen machen, die wahr sein sollen. Genau auf diese Kritik gehen die Autoren ein, wenn sie über die Zirkularität des Erkennens von Erkennen sprechen. 
 	- Es wurde kritisiert, dass dekonstruktion nichts bringt und einen einfach nur hilflos macht. Das ist allerdings nicht die Perspektive der Autoren. Sie pochen eher darauf, dass sich Wissen konstant weiter entwickelt und nicht statisch ist.
 - Wir sollten vielleicht mal Sitzungen spezifisch für Erkenntnisstheorie und für Werte in den Wissenschaften vorbereiten.
