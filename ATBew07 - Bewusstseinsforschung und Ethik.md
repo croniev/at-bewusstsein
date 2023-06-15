@@ -48,8 +48,51 @@ Zu diesem Zweck verwenden wir das Video von Harari als ausgangspunkt: https://ww
 	- Ist es sinnvoll Bewusstsein breiter als bloß durch *Leidenfähigkeit* zu fassen?
 
 ---
+Intro
+- Ist Harari an sich eher Militärisch orientiert?
+- Theorie, dass früher das Bewusstsein anders funktioniert hat; dass die Götter durch die Menschen gesprochen haben, an stelle von Individualismus
+- Träumen ist anders als alltägliches Leben
+	- Es ist schon gefühl vorhanden, aber manchmal steht eher semantisches im Vordergrund
+- Dennetts, Dawkins Theorie: Ideen sind wie Viren, sie vervielfältigen sich, verbreiten sich
+
+---
+Wissenschaft zu Leiden, Leiden auf einem Spektrum
+- Ist es nicht falschrum, erst Moral festzulegen und dann die Forschung an die Moral anpassen? Sollte nicht erst geschaut werden, wie es ist, und danach die Moral daraus gefolgert werden?
+- Harari sagt, dass wir sehr vorsichtig sein müssen bei diesem Thema, da die möglichkeit besteht, viel leiden zu erzeugen
+- Können manche mehr schmerz und andere weniger schmerz erfahren? Hätte das konsequenzen?
+- Utilitarismus: Alles auf eine einheit bringen wollen und dann miteinander verrechnen
+	- Stumpfer Utilitarismus kommt eig nie an endgültige antwort weil irgendwas ist immer
+- Vielleicht lässt Leiden sich nicht auf eine Dimension reduzieren aber auf sagen wir mal 16 unterschiedliche dimensionen. Dann ließen sich ja auch vergleiche zwischen Wesen machen, indem man deren 16 Leidensfähigkeiten miteinander vegleicht
+	- Aber für abstufungen ("mehr oder weniger bewusst") bräuchte es halt 1. die Annahme, dass die Einträge/Begrenzungen auf den Dimensionen statisch sind und 2. bleibt weiterhin der Mensch das Maß aller Dimensionen (wir definieren Leiden natürlich auf die Art, wie wir es kennen)
+- Phänomenologisch ist uns doch klar, dass Tiere Bewusstsein haben
+	- Aber: in die Phäno (in die Wahrnehmung) steckt man was (eigene Theorien, gelerntes) mit rein
+
+---
+Intelligenz und Funktionalismus
+- Intelligenz ist nicht Bewusstsein (siehe oben)
+	- Das scheint ja eigentlich sehr intuitiv, dass computer besser rechnen könnten aber dennoch nicht bewusst sein müssen
+	- Turing-Test war nicht funktionalistisch gemeint, aber manche Funktionalisten behaupten dann tatsächlich, dass Bewusstsein postulierbar ist einfach anhand dessen, was wie passiert.
+- Damasio: Ohne Gefühle kann man gar keine probleme Lösen.
+	- Da würde Harari eben mitgehen: Gefühle werden zum Probelmlösen verwendet
+	- Wer noch nie sehen konnte oder z.B. Aphantasie hat, dessen Intelligenz funktioniert dann eben einfach anders
+- Es kann keine rein Objektive perspektive geben, Subjekt ist immer vorhanden --> Ethik spielt immer eine Rolle[^4] 
+- Pong in der Petrischale liefert den selben output wie pong im computer
+	- Ja, aber nur weil *ich* alles dafür getan habe, dass das, was in der Petrischale geschieht, genau so wie im computer ist. Ich *transformiere* die Petrischale, sodass pong rauskommt.
+	- Funktionalistische behauptung: Wenn beides genau den selben output liefert/die selben computationen macht dann ist es gleichwertig (dann ist es auch bewusst)
+		- Gegenargumente: 1. Bewusstsein ist nicht auf computation reduzierbar und 2. Information/Computation hat keine Bedeutung die unabhängig ist von uns (die nicht *durch uns* zugeschrieben wird.)
+- Bewusstsein als Substratabhängig (Chinese Room)
+- Funktionen *in einem* (relativ) abgeschlossenen System
+
+---
 ## Nachbereitung
+- Bicameral Mind <-- "vorstufe des Menschlichen Bewusstseins"; 
+- Wichtigkeit von Intersubjektivität für Bewusstsein
+	- Husserls Intersubjektivität
+	- Isolationshaft
+- Träumen, Wach sein, alterierte Bewusstseinszustände
+- Identität und Selbst
 
 [^1]: There already is a big impact from (naive/intuitive) theories of consciousness
 [^2]: Information processing, input-Output
 [^3]: [[(T) Existenzphilosophie]]
+[^4]: Kant. Wenn man diese Aussage ernst nimmt wird allerdings sogar die Frage nach der Objektivität absurd.
