@@ -49,6 +49,31 @@ Heute schauen wir uns die Ideen aus dem Buch *The Evolution of the sensitive sou
 
 ---
 ## Protokoll
+Attribute
+- Die aufgelisteten Merkmale sind doch teilweise sehr behavioristisch (funktionalistisch, anfällig für den Turing-Test). Und dann haben wir wieder genau das Problem wie sonst: Wie kann ich sagen, dass etwas *tatsächlich* lernt, und nicht nur so tut?
+	- 1. Achten wir nicht nur auf eine Eigenschaft sondern auf ganz viele. Also müsste sehr viel täuschung vorhanden sein
+	- 2. Es geht hier nicht um definition von Bewusstsein, sondern um voraussetzungen für UAL. Dann ist tatsächlich die Funktion das relevante. 
+- Selbstverständlich ist die Wahl von Attributen für den Marker bezogen auf Menschen (*menschenartiges Bewusstsein*). Zusätzlich sind sie teilweise behavioristisch (eher pragmatisch als ontologisch orientiert).
+
+---
+- Statik: Unsere gesamte Wahrnehmung funktioniert bewegt, nie statisch.
+	- Kann es ein statisches Bewusstsein geben?
+
+---
+Evolutionsbiologie
+- Ist Evolutionsbiologie nicht zuverlässlich da es nur "Geschichtserzählung" ist?
+	- Annahme: Menschen sind angepasst an ihre Umwelt
+		- (Rational analysis/bayesian/Jäkel: egal wie es dazu kam; evolutionsbio: spricht über evolutionsbio)
+- Evolutionsbio soll uns hier deshalb helfen, weil wir dann anschauen können *wie* es zur komplexität gekommen ist, und so zu verstehen, was wichtige Voraussetzungen für die Komplexität sind und wie die funktionalitäten gewährleistet werden.
+
+---
+Voraussetzungen für UAL
+- Diese Theorie (Die definition des Markers) ist gekoppelt an die Vorstellung von Bewusstsein als abhängig von Komplexität. Was wenn es aber auch Bewusstsein geben kann ohne Komplexität?
+	- --> Dann würde es nicht unter dem Begriff *Bewusstsein* aufgefangen werden. Schließlich haben wir es durch Komplexität definiert (denn wir menutzen eine Menschenähnliche Definition von Bewusstsein).
+- Hier ist die verwendung von "Intentionalität" uns nicht ganz klar. Wie soll festgestellt werden, dass etwas intentional ist?
+	- Intentionalität ist überall (daher ist kein Dualismus möglich)
+	- Für Bewusstsein braucht es aber noch mehr (z.B. agency)
 
 ---
 ## Nachbereitung
+- Haben über Evolutionsbiologie und ihre rechtfertigung usw. diskutiert.
